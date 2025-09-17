@@ -47,7 +47,7 @@ Dataset name: Indian Food Dataset
 
 - Exploratory Data Analysis (EDA) using Pandas
 
-# Visualizations:
+## Visualizations:
 
 - Bar chart of dishes by region
 
