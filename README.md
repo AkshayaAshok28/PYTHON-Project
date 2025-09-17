@@ -61,9 +61,9 @@ Dataset name: Indian Food Dataset
 
 - Violin & boxplots for comparisons
 
-# NumPy practice: arrays, statistics, reshaping, slicing
+## NumPy practice: arrays, statistics, reshaping, slicing
 
-# Merge & Concat operations to combine DataFrames
+## Merge & Concat operations to combine DataFrames
 
 ---------
 
